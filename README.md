@@ -1,2 +1,3 @@
 # Amrita_Immersion_Batch_03
-## Solar Pannel
+## Task-1 Creation of data set for Solar Panel Fault Detection
+
